@@ -8,8 +8,8 @@
 
 
 
-<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there  
-![](https://komarev.com/ghpvc/?username=Deffro&label=Visitor) !
+<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there ! 
+![](https://komarev.com/ghpvc/?username=Deffro&label=Visitor) 
 
 Thanks for stopping by!
 
