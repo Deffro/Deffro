@@ -1,5 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30"/> Dimitrios Effrosynidis, Data Scientist | Ph.D.(c)</h1>
 
+<p> <a href="https://deffro.github.io/" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> <a href="https://medium.com/@dimitris.effrosynidis" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dimitrios-effrosynidis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
