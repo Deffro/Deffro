@@ -4,8 +4,9 @@
 
 
 
-<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> <p>Hey there ![](https://komarev.com/ghpvc/?username=Deffro&label=visitor)! Thanks for stopping by! </br> 
-I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="13"/> <b>Athens, Greece</b>. </p>
+<p><img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there ![](https://komarev.com/ghpvc/?username=Deffro&label=visitor)! Thanks for stopping by! </br> 
+I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
