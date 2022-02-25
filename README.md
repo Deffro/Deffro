@@ -93,7 +93,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        <td>Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
        <td>NLP, Data Pre-Processing, NLTK, regex, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://github.com/Deffro/text-preprocessing-techniques" target="_blank"><img src="https://img.icons8.com/plasticine/344/github.png" width="40"/></a>
-            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417418303683" target="_blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30" style="margin-left:10px"/></a>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417418303683" target="_blank" style="margin-left:10px"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
