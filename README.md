@@ -136,7 +136,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        </td>
     </tr>	
 	<tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514128/877/movie.gif?1643514128" width="30" style="margin-right:10px"/>Topic modeling on my watched Movies</td>
+       <td><img src="https://slackmojis.com/emojis/20549-movie_nut/download" width="30" style="margin-right:10px"/>Topic modeling on my watched Movies</td>
        <td>LDA, TF-IDF, Text Pre-Processing, Wikipedia, regex, Pandas, Scipy, Wordcloud, Gensim, NLTK</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies/Topic%20Modeling%20on%20my%20Watched%20Movies.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
