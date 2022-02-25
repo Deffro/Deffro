@@ -39,18 +39,17 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
         <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-03b1fc?style=flat-square&logo=plotly&logoColor=white" /></a>
         <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-f29111?style=flat-square&logo=mysql&logoColor=white" /></a>
         <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-eb6c2d?style=flat-square&logo=jupyter&logoColor=white" /></a>
-<a href="https://shap.readthedocs.io/en/latest/index.html"><img alt="Shap" src="https://img.shields.io/badge/-Shap-a12d86?style=flat-square" /></a>
-<a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1d4959?style=flat-square" /></a>
-<a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-3EB049?style=flat-square&logo=anaconda&logoColor=white" /></a>
-<a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat-square&logo=microsoftoffice&logoColor=white" /></a>
-<a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" /></a>
-<a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-1f8077?style=flat-square&logo=latex&logoColor=white" /></a>
-<a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-45a638?style=flat-square&logo=overleaf&logoColor=white" /></a>
-<a href="https://www.mendeley.com/"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-8a1c1c?style=flat-square&logo=mendeley&logoColor=white" /></a>
-<a href="https://trello.com/en"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0084d1?style=flat-square&logo=trello&logoColor=white" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" /></a>
-<a href="https://xfce.org/"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-398ab3?style=flat-square&logo=xfce&logoColor=white" /></a>
-        
+		<a href="https://shap.readthedocs.io/en/latest/index.html"><img alt="Shap" src="https://img.shields.io/badge/-Shap-a12d86?style=flat-square" /></a>
+		<a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1d4959?style=flat-square" /></a>
+		<a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-3EB049?style=flat-square&logo=anaconda&logoColor=white" /></a>
+		<a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat-square&logo=microsoftoffice&logoColor=white" /></a>
+		<a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" /></a>
+		<a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-1f8077?style=flat-square&logo=latex&logoColor=white" /></a>
+		<a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-45a638?style=flat-square&logo=overleaf&logoColor=white" /></a>
+		<a href="https://www.mendeley.com/"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-8a1c1c?style=flat-square&logo=mendeley&logoColor=white" /></a>
+		<a href="https://trello.com/en"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0084d1?style=flat-square&logo=trello&logoColor=white" /></a>
+		<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" /></a>
+		<a href="https://xfce.org/"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-398ab3?style=flat-square&logo=xfce&logoColor=white" /></a>		
         </td>
     </tr>
     <tr>
@@ -62,16 +61,15 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
             <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></a>
             <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-35a691?style=flat-square&logo=fastapi&logoColor=white" /></a>
             <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-F3CD00?style=flat-square&logo=linux&logoColor=white" /></a>
-
-<a href="https://jinja.palletsprojects.com/en/3.0.x/"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-910707?style=flat-square&logo=jinja&logoColor=white" /></a>
-<a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-68747a?style=flat-square&logo=selenium&logoColor=white" /></a>
+			<a href="https://jinja.palletsprojects.com/en/3.0.x/"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-910707?style=flat-square&logo=jinja&logoColor=white" /></a>
+			<a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-68747a?style=flat-square&logo=selenium&logoColor=white" /></a>
         </td>
     </tr>
     <tr>
         <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/>Learning</td>
         <td>
            <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" /></a>
-<a href="https://docs.pytest.org/en/7.0.x/"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" /></a> 
+			<a href="https://docs.pytest.org/en/7.0.x/"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" /></a> 
         </td>
     </tr>
   </tbody>
