@@ -12,7 +12,7 @@
 
 Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
 
-<h3>My Tech Stack</h3>
+<h2>My Tech Stack</h2>
 
 <table>
   <thead align="center">
@@ -71,7 +71,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
   </tbody>
 </table>   
 
-<h3>Repositories</h3>
+<h2>My Repositories</h2>
 
 <a href="https://github.com/Deffro/text-preprocessing-techniques"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=text-preprocessing-techniques&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
 <a href="https://github.com/Deffro/Data-Science-Portfolio"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=Data-Science-Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
@@ -79,7 +79,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 <a href="https://github.com/Deffro/statify"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=statify&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
  
 
-<h3>My Projects</h3>
+<h2>My Projects</h2>
 
 <table>
   <thead align="center">
