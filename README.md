@@ -12,6 +12,7 @@
 
 Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
 
+<h3>My Tech Stack</h3>
 
 <table>
   <thead align="center">
@@ -70,6 +71,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
   </tbody>
 </table>    
 
+<h3>My Projects</h3>
 
 <table>
   <thead align="center">
@@ -83,8 +85,8 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
        <td>Random Dose of Knowledge</td>
        <td>Software Development, Web Development, Reddit API, Deployment, Docker, AWS EC2 and ECR, MySQLAlchemy, FastAPI, Anaconda, HTML, CSS, Jinja2, Pandas, PlotLy</td>
-       <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/ios-glyphs/344/github.png" width="30"/></a>
-            <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" width="30"/></a>
+       <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/ios/344/github--v1.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/ios-filled/344/medium-monogram--v1.png" width="30"/></a>
        </td>
     </tr>
   </tbody>
