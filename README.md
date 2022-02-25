@@ -118,7 +118,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
        <td>Emotion Analysis for Movie Reviews</td>
        <td>Feature Selection, Feature Engineering, Text Pre-Processing, Ensemble Learning, Inter-annotator agreement, Emotion Lexicons, IMDbPy, TF-IDF, Chi-Square</td>
-       <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" width="25"/></a>
+       <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
        </td>
     </tr>	
 	<tr>
