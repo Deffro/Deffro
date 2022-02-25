@@ -75,10 +75,10 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 
 </p>
 <h3>Repositories</h3>
-<a href="https://github.com/Deffro/text-preprocessing-techniques"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=text-preprocessing-techniques&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
-<a href="https://github.com/Deffro/Data-Science-Portfolio"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=Data-Science-Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
-<a href="https://github.com/Deffro/random-dose-of-knowledge"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=random-dose-of-knowledge&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
-<a href="https://github.com/Deffro/statify"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=statify&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+<a href="https://github.com/Deffro/text-preprocessing-techniques"><img width="340" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=text-preprocessing-techniques&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
+<a href="https://github.com/Deffro/Data-Science-Portfolio"><img width="340" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=Data-Science-Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
+<a href="https://github.com/Deffro/random-dose-of-knowledge"><img width="340" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=random-dose-of-knowledge&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+<a href="https://github.com/Deffro/statify"><img width="340" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=statify&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
 
 
 
