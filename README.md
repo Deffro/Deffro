@@ -97,6 +97,13 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
             <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>
+	<tr>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="30" style="margin-right:10px"/> Statify: an app for interactive visualizations of Spotify statistics</td>
+       <td>Software Development, Spotify API, OOP, Git, Pandas, Plotly, Dash, Flask, Ngrok, HTML, CSS, Heroku</td>
+       <td><a href="https://github.com/Deffro/statify" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/creating-statify-an-app-for-your-spotify-statistics-and-what-i-learned-from-it-289b680d0b29" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
+       </td>
+    </tr>	
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1637642191/50326/knuddels_writing.gif?1637642191" width="30" style="margin-right:10px"/> Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
        <td>NLP, Data Pre-Processing, NLTK, regex, Scientific Research, LaTeX, Overleaf</td>
@@ -113,7 +120,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     </tr>	
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643516424/24622/fishing.gif?1643516424" width="30" style="margin-right:10px"/> Web Scraping Marine Species Data and Exploratory Data Analysis</td>
-       <td>Web Scraping, Interactive Visualizations, BeautifulSoup, Plotly, Seaborn, Pandas, Scientific Research, LaTeX, Overleaf</td>
+       <td>Web Scraping, Interactive Visualizations, Beautiful Soup, Plotly, Seaborn, Pandas, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Marine-Species" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>	
@@ -129,13 +136,6 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
        </td>
     </tr>	
-	<tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="30" style="margin-right:10px"/> Statify: an app for interactive visualizations of Spotify statistics</td>
-       <td>Software Development, Spotify API, OOP, Git, Pandas, Plotly, Dash, Flask, Ngrok, HTML, CSS, Heroku</td>
-       <td><a href="https://github.com/Deffro/statify" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
-            <a href="https://towardsdatascience.com/creating-statify-an-app-for-your-spotify-statistics-and-what-i-learned-from-it-289b680d0b29" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
-       </td>
-    </tr>
 	<tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643516350/23880/magnify.gif?1643516350" width="30" style="margin-right:10px"/> Outlier Detection Algorithms with Hands on examples</td>
        <td>Outlier Detection, Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, Scipy, Pandas, Scikit-learn, Seaborn, Plotly</td>
