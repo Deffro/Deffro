@@ -118,9 +118,44 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
        <td>Emotion Analysis for Movie Reviews</td>
        <td>Feature Selection, Feature Engineering, Text Pre-Processing, Ensemble Learning, Inter-annotator agreement, Emotion Lexicons, IMDbPy, TF-IDF, Chi-Square</td>
-       <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/344/external-blog-internet-marketing-smashingstocks-circular-smashing-stocks.png" width="25"/></a>
+       <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" width="25"/></a>
        </td>
-    </tr>			
+    </tr>	
+	<tr>
+       <td>Statify: an app for interactive visualizations of Spotify statistics</td>
+       <td>Software Development, Spotify API, OOP, Git, Pandas, Plotly, Dash, Flask, Ngrok, HTML, CSS, Heroku</td>
+       <td><a href="https://github.com/Deffro/statify" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/creating-statify-an-app-for-your-spotify-statistics-and-what-i-learned-from-it-289b680d0b29" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
+       </td>
+    </tr>
+	<tr>
+       <td>Outlier Detection Algorithms with Hands on examples</td>
+       <td>Outlier Detection, Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, Scipy, Pandas, Scikit-learn, Seaborn, Plotly</td>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Outlier%20Detection/Outlier%20Detection%20-%20Theory,%20Visualizations%20and%20Code.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
+       </td>
+    </tr>	
+	<tr>
+       <td>Topic modeling on my watched Movies</td>
+       <td>LDA, TF-IDF, Text Pre-Processing, Wikipedia, regex, Pandas, Scipy, Wordcloud, Gensim, NLTK</td>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies/Topic%20Modeling%20on%20my%20Watched%20Movies.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
+       </td>
+    </tr>		
+	<tr>
+       <td>Classical Forecasting Methods vs. Machine Learning</td>
+       <td>Time Series Forecasting, Exponential Smoothing, ARIMA, LGB, Random Forest, Linear Regression, Pandas, Numpy, Seaborn, Scikit-Learn, Statsmodels</td>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
+       </td>
+    </tr>		
+	<tr>
+       <td>Clustering Neighborhoods</td>
+       <td>Unsupervised Learning, Clustering, K-Means, Foursquare API, Beautiful Soup, Geocode, Scikit-learn, Folium</td>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Clustering%20Neighborhouds/Clustering%20Neighborhoods.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://deffro.github.io/projects/battle-of-the-cities/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" width="25"/></a>
+       </td>
+    </tr>		
   </tbody>
 </table>      
     
