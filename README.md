@@ -85,7 +85,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
        <td>Random Dose of Knowledge</td>
        <td>Software Development, Web Development, Reddit API, Deployment, Docker, AWS EC2 and ECR, MySQLAlchemy, FastAPI, Anaconda, HTML, CSS, Jinja2, Pandas, Plotly</td>
-       <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/plasticine/344/github.png" width="40"/></a>
+       <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>
@@ -99,14 +99,14 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
        <td>Feature Selection Methods for Environmental Data</td>
        <td>Feature Selection, Shap, Pandas, Tableau, Scientific Research, LaTeX, Overleaf</td>
-       <td><a href="https://towardsdatascience.com/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543" target="_blank"><img src="https://img.icons8.com/plasticine/344/github.png" width="40"/></a>
+       <td><a href="https://towardsdatascience.com/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574954121000157" target="_blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
        <td>Web Scraping Marine Species Data and Exploratory Data Analysis</td>
        <td>Web Scraping, Interactive Visualizations, BeautifulSoup, Plotly, Seaborn, Pandas, Scientific Research, LaTeX, Overleaf</td>
-       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Marine-Species" target="_blank"><img src="https://img.icons8.com/plasticine/344/github.png" width="40"/></a>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Marine-Species" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
