@@ -49,7 +49,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
         </td>
     </tr>
     <tr>
-        <td><img src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" width="30" style="margin-right:10px"/>Novice</td>
+        <td><img src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" width="30" style="margin-right:10px"/> Novice</td>
         <td><a href="https://plotly.com/dash/" target="_blank"><img alt="Dash" src="https://img.shields.io/badge/-Dash-244b78?style=flat-square&logo=dash&logoColor=white" /></a>
             <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /></a>
             <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" /></a>
@@ -62,7 +62,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
         </td>
     </tr>
     <tr>
-        <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/>Learning</td>
+        <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/> Learning</td>
         <td>
            <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" /></a>
 			<a href="https://docs.pytest.org/en/7.0.x/" target="_blank"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" /></a> 
