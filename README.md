@@ -83,7 +83,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
   </thead>
   <tbody>
     <tr>
-       <td>Random Dose of Knowledge</td>
+       <td><img src="https://slackmojis.com/emojis/51730-reddit_static/download" width="30" style="margin-right:10px"/>Random Dose of Knowledge</td>
        <td>Software Development, Web Development, Reddit API, Deployment, Docker, AWS EC2 and ECR, MySQLAlchemy, FastAPI, Anaconda, HTML, CSS, Jinja2, Pandas, Plotly</td>
        <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
