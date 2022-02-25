@@ -116,7 +116,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        </td>
     </tr>		
     <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643517182/32226/awesome_colors_spin.gif?1643517182" width="30" style="margin-right:10px"/>Emotion Analysis for Movie Reviews</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643517182/32226/awesome_colors_spin.gif?1643517182" width="30" style="margin-right:10px"/> Emotion Analysis for Movie Reviews</td>
        <td>Feature Selection, Feature Engineering, Text Pre-Processing, Ensemble Learning, Inter-annotator agreement, Emotion Lexicons, IMDbPy, TF-IDF, Chi-Square</td>
        <td><a href="https://deffro.github.io/projects/emotion-detection-on-movie-reviews/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
        </td>
@@ -154,6 +154,13 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        <td>Unsupervised Learning, Clustering, K-Means, Foursquare API, Beautiful Soup, Geocode, Scikit-learn, Folium</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Clustering%20Neighborhouds/Clustering%20Neighborhoods.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://deffro.github.io/projects/battle-of-the-cities/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
+       </td>
+    </tr>		
+	<tr>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516113/21367/puzzle.gif?1643516113" width="30" style="margin-right:10px"/> 10+1 Cross Validation Techniques Visualized</td>
+       <td>Unsupervised Learning, Clustering, K-Means, Foursquare API, Beautiful Soup, Geocode, Scikit-learn, Folium</td>
+       <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/10%2B1%20Cross%20Validation%20Techniques%20Visualized/code.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+            <a href="https://towardsdatascience.com/10-1-cross-validation-techniques-visualized-9013095fb68e" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>		
   </tbody>
