@@ -6,41 +6,80 @@
 <a href="https://www.linkedin.com/in/dimitrios-effrosynidis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
+<img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30"/>
 
 <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there 
 ![](https://komarev.com/ghpvc/?username=Deffro&label=Visitor) 
 
-Thanks for stopping by!
+Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
 
-I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
+
+
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Experience</b></td>
+      <td><b>Tech Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30" style="margin-right:10px"/>Proficient</td>
+      <td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" /></a>
+      <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+        <a href="https://numpy.org/"><img alt="Numpy" src="https://img.shields.io/badge/-Numpy-8998CF?style=flat-square&logo=numpy&logoColor=white" /></a>
+        <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Sklearn-fa9c3c?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
+        <a href="https://scipy.org/"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-325aa8?style=flat-square&logo=scipy&logoColor=white" /></a>
+        <a href="https://www.sktime.org/en/stable/"><img alt="Sktime" src="https://img.shields.io/badge/-Sktime-15a382?style=flat-square" /></a>
+        <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square" /></a>
+        <a href="https://seaborn.pydata.org/"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-226280?style=flat-square" /></a>
+        <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-03b1fc?style=flat-square&logo=plotly&logoColor=white" /></a>
+        <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-f29111?style=flat-square&logo=mysql&logoColor=white" /></a>
+        <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-eb6c2d?style=flat-square&logo=jupyter&logoColor=white" /></a>
+<a href="https://shap.readthedocs.io/en/latest/index.html"><img alt="Shap" src="https://img.shields.io/badge/-Shap-a12d86?style=flat-square" /></a>
+<a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1d4959?style=flat-square" /></a>
+<a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-3EB049?style=flat-square&logo=anaconda&logoColor=white" /></a>
+<a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat-square&logo=microsoftoffice&logoColor=white" /></a>
+<a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" /></a>
+<a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-1f8077?style=flat-square&logo=latex&logoColor=white" /></a>
+<a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-45a638?style=flat-square&logo=overleaf&logoColor=white" /></a>
+<a href="https://www.mendeley.com/"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-8a1c1c?style=flat-square&logo=mendeley&logoColor=white" /></a>
+<a href="https://trello.com/en"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0084d1?style=flat-square&logo=trello&logoColor=white" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" /></a>
+<a href="https://xfce.org/"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-398ab3?style=flat-square&logo=xfce&logoColor=white" /></a>
+        
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" width="30" style="margin-right:10px"/>Novice</td>
+        <td><a href="https://plotly.com/dash/"><img alt="Dash" src="https://img.shields.io/badge/-Dash-244b78?style=flat-square&logo=dash&logoColor=white" /></a>
+            <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /></a>
+            <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" /></a>
+            <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" /></a>
+            <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></a>
+            <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-35a691?style=flat-square&logo=fastapi&logoColor=white" /></a>
+            <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-F3CD00?style=flat-square&logo=linux&logoColor=white" /></a>
+
+<a href="https://jinja.palletsprojects.com/en/3.0.x/"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-910707?style=flat-square&logo=jinja&logoColor=white" /></a>
+<a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-68747a?style=flat-square&logo=selenium&logoColor=white" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/>Learning</td>
+        <td>
+           <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="https://docs.pytest.org/en/7.0.x/"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" /></a> 
+        </td>
+    </tr>
+  </tbody>
+</table>    
+
+
+
+
 </p>
 <h3>Open source projects</h3>
 <table>
