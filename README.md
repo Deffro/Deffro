@@ -90,7 +90,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        </td>
     </tr>
     <tr>
-       <td><img src="https://slackmojis.com/emojis/29859-text_wall/" width="30" style="margin-right:10px"/>Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
+       <td><img src="https://slackmojis.com/emojis/29859-text_wall/download" width="30" style="margin-right:10px"/>Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
        <td>NLP, Data Pre-Processing, NLTK, regex, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://github.com/Deffro/text-preprocessing-techniques" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417418303683" target="_blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30"/></a>
