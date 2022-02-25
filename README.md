@@ -6,16 +6,11 @@
 <a href="https://www.linkedin.com/in/dimitrios-effrosynidis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30"/>
 
 <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there 
 ![](https://komarev.com/ghpvc/?username=Deffro&label=Visitor) 
 
 Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
-
-
-
-
 
 
 <table>
@@ -79,41 +74,16 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 
 
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+<h3>Repositories</h3>
+<a href="https://github.com/Deffro/text-preprocessing-techniques"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=text-preprocessing-techniques&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
+<a href="https://github.com/Deffro/Data-Science-Portfolio"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=Data-Science-Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
+<a href="https://github.com/Deffro/random-dose-of-knowledge"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=random-dose-of-knowledge&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+<a href="https://github.com/Deffro/statify"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=statify&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+
+
+
+
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
