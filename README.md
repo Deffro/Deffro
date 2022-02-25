@@ -83,34 +83,34 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
   </thead>
   <tbody>
     <tr>
-       <td><img src="https://slackmojis.com/emojis/51730-reddit_static/download" width="30" style="margin-right:10px"/>Random Dose of Knowledge</td>
+       <td><img src="https://slackmojis.com/emojis/51730-reddit_static/download" width="30" style="margin-right:10px"/> Random Dose of Knowledge</td>
        <td>Software Development, Web Development, Reddit API, Deployment, Docker, AWS EC2 and ECR, MySQLAlchemy, FastAPI, Anaconda, HTML, CSS, Jinja2, Pandas, Plotly</td>
        <td><a href="https://github.com/Deffro/random-dose-of-knowledge" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/developing-and-deploying-a-complete-project-using-fastapi-jinja2-sqlalchemy-docker-and-aws-1b504a1a2be4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>
     <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1637642191/50326/knuddels_writing.gif?1637642191" width="30" style="margin-right:10px"/>Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1637642191/50326/knuddels_writing.gif?1637642191" width="30" style="margin-right:10px"/> Comparison of Pre-processing Techniques for Twitter Sentiment Analysis</td>
        <td>NLP, Data Pre-Processing, NLTK, regex, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://github.com/Deffro/text-preprocessing-techniques" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417418303683" target="_blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516693/27397/fish.gif?1643516693" width="30" style="margin-right:10px"/>Feature Selection Methods for Environmental Data</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516693/27397/fish.gif?1643516693" width="30" style="margin-right:10px"/> Feature Selection Methods for Environmental Data</td>
        <td>Feature Selection, Shap, Pandas, Tableau, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://towardsdatascience.com/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574954121000157" target="_blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516424/24622/fishing.gif?1643516424" width="30" style="margin-right:10px"/>Web Scraping Marine Species Data and Exploratory Data Analysis</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516424/24622/fishing.gif?1643516424" width="30" style="margin-right:10px"/> Web Scraping Marine Species Data and Exploratory Data Analysis</td>
        <td>Web Scraping, Interactive Visualizations, BeautifulSoup, Plotly, Seaborn, Pandas, Scientific Research, LaTeX, Overleaf</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Marine-Species" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>	
     <tr>
-       <td><img src="https://slackmojis.com/emojis/25926-shooting-guns/download" width="30" style="margin-right:10px"/>Exploratory Data Analysis for the popular Battle Royale game PUBG</td>
+       <td><img src="https://slackmojis.com/emojis/25926-shooting-guns/download" width="30" style="margin-right:10px"/> Exploratory Data Analysis for the popular Battle Royale game PUBG</td>
        <td>EDA, Feature Engineering, Pandas, Matplotlib, Seaborn</td>
        <td><a href="https://www.kaggle.com/deffro/eda-is-fun" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="30"/></a>
        </td>
@@ -122,28 +122,28 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        </td>
     </tr>	
 	<tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="30" style="margin-right:10px"/>Statify: an app for interactive visualizations of Spotify statistics</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="30" style="margin-right:10px"/> Statify: an app for interactive visualizations of Spotify statistics</td>
        <td>Software Development, Spotify API, OOP, Git, Pandas, Plotly, Dash, Flask, Ngrok, HTML, CSS, Heroku</td>
        <td><a href="https://github.com/Deffro/statify" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/creating-statify-an-app-for-your-spotify-statistics-and-what-i-learned-from-it-289b680d0b29" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>
 	<tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516350/23880/magnify.gif?1643516350" width="30" style="margin-right:10px"/>Outlier Detection Algorithms with Hands on examples</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643516350/23880/magnify.gif?1643516350" width="30" style="margin-right:10px"/> Outlier Detection Algorithms with Hands on examples</td>
        <td>Outlier Detection, Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, Scipy, Pandas, Scikit-learn, Seaborn, Plotly</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Outlier%20Detection/Outlier%20Detection%20-%20Theory,%20Visualizations%20and%20Code.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>	
 	<tr>
-       <td><img src="https://slackmojis.com/emojis/20549-movie_nut/download" width="30" style="margin-right:10px"/>Topic modeling on my watched Movies</td>
+       <td><img src="https://slackmojis.com/emojis/20549-movie_nut/download" width="30" style="margin-right:10px"/> Topic modeling on my watched Movies</td>
        <td>LDA, TF-IDF, Text Pre-Processing, Wikipedia, regex, Pandas, Scipy, Wordcloud, Gensim, NLTK</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies/Topic%20Modeling%20on%20my%20Watched%20Movies.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
        </td>
     </tr>		
 	<tr>
-       <td><img src="https://slackmojis.com/emojis/15794-forecast_hot/download" width="30" style="margin-right:10px"/>Classical Forecasting Methods vs. Machine Learning</td>
+       <td><img src="https://slackmojis.com/emojis/15794-forecast_hot/download" width="30" style="margin-right:10px"/> Classical Forecasting Methods vs. Machine Learning</td>
        <td>Time Series Forecasting, Exponential Smoothing, ARIMA, LGB, Random Forest, Linear Regression, Pandas, Numpy, Seaborn, Scikit-Learn, Statsmodels</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
             <a href="https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716" target="_blank"><img src="https://img.icons8.com/stickers/344/medium-logo.png" width="30"/></a>
