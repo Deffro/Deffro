@@ -153,7 +153,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
        <td>Clustering Neighborhoods</td>
        <td>Unsupervised Learning, Clustering, K-Means, Foursquare API, Beautiful Soup, Geocode, Scikit-learn, Folium</td>
        <td><a href="https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Clustering%20Neighborhouds/Clustering%20Neighborhoods.ipynb" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
-            <a href="https://deffro.github.io/projects/battle-of-the-cities/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" width="25"/></a>
+            <a href="https://deffro.github.io/projects/battle-of-the-cities/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
        </td>
     </tr>		
   </tbody>
