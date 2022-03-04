@@ -24,9 +24,9 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
   <tbody>
     <tr>
       <td><img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30" style="margin-right:10px"/>Proficient</td>
-      <td><a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
-        <a href="https://numpy.org/" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/-Numpy-8998CF?style=flat-square&logo=numpy&logoColor=white" /></a>
+      <td><a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" width="80"/></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="90"/></a>
+        <a href="https://numpy.org/" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/-Numpy-8998CF?style=flat-square&logo=numpy&logoColor=white" width="100"/></a>
         <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Sklearn-fa9c3c?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
         <a href="https://scipy.org/" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-325aa8?style=flat-square&logo=scipy&logoColor=white" /></a>
         <a href="https://www.sktime.org/en/stable/" target="_blank"><img alt="Sktime" src="https://img.shields.io/badge/-Sktime-15a382?style=flat-square" /></a>
