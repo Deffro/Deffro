@@ -64,7 +64,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     <tr>
         <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/> Learning</td>
         <td>
-           <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/></a>
+            <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/></a>
 			<a href="https://docs.pytest.org/en/7.0.x/" target="_blank"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" height="27"/></a> 
         </td>
     </tr>
@@ -90,6 +90,12 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     </tr>
   </thead>
   <tbody>
+    <tr>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif?1643514600" width="30" style="margin-right:10px"/> Random Dose of Knowledge</td>
+       <td>MLOPs, Production, Deployment, Docker, Pytest, Tox, Git, Heroku, FastAPI, Anaconda, Pandas, Scikit-Learn, Feature-Engine,</td>
+       <td><a href="https://github.com/Deffro/end-to-end-ML-project" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+       </td>
+    </tr>  
     <tr>
        <td><img src="https://slackmojis.com/emojis/51730-reddit_static/download" width="30" style="margin-right:10px"/> Random Dose of Knowledge</td>
        <td>Software Development, Web Development, Reddit API, Deployment, Docker, AWS EC2 and ECR, MySQLAlchemy, FastAPI, Anaconda, HTML, CSS, Jinja2, Pandas, Plotly</td>
