@@ -30,7 +30,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
         <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Sklearn-fa9c3c?style=flat-square&logo=scikitlearn&logoColor=white" height="27"/></a>
         <a href="https://scipy.org/" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-325aa8?style=flat-square&logo=scipy&logoColor=white" height="27"/></a>
         <a href="https://www.sktime.org/en/stable/" target="_blank"><img alt="Sktime" src="https://img.shields.io/badge/-Sktime-15a382?style=flat-square" height="27"/></a>
-		<a href="https://pyod.readthedocs.io/en/latest/" target="_blank"><img alt="PyOD" src="https://img.shields.io/badge/-Sktime-15a382?style=flat-square" height="27"/></a>
+		<a href="https://pyod.readthedocs.io/en/latest/" target="_blank"><img alt="PyOD" src="https://img.shields.io/badge/-PyOD-d9a20b?style=flat-square" height="27"/></a>
 		<a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square" height="27"/></a>
         <a href="https://seaborn.pydata.org/" target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-226280?style=flat-square" height="27"/></a>
         <a href="https://plotly.com/" target="_blank"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-03b1fc?style=flat-square&logo=plotly&logoColor=white" height="27"/></a>
