@@ -31,7 +31,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
         <a href="https://scipy.org/" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-325aa8?style=flat-square&logo=scipy&logoColor=white" height="27"/></a>
         <a href="https://www.sktime.org/en/stable/" target="_blank"><img alt="Sktime" src="https://img.shields.io/badge/-Sktime-15a382?style=flat-square" height="27"/></a>
         
-        <a href="https://pyod.readthedocs.io/en/latest/" target="_blank"><img alt="Sktime" src="https://img.shields.io/badge/-PyOD-a37907?style=flat-square" height="27"/></a>
+        <!-- <a href="https://pyod.readthedocs.io/en/latest/" target="_blank"><img alt="Sktime" src="https://img.shields.io/badge/-PyOD-a37907?style=flat-square" height="27"/></a> -->
  		
 		
 		<a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square" height="27"/></a>
