@@ -1,4 +1,4 @@
-<h1>Dimitrios Effrosynidis, Data Scientist | Ph.D.(c)</h1>
+<h1>Dimitrios Effrosynidis, Data Scientist | Ph.D.</h1>
 
 <p> 
 <a href="https://deffro.github.io/" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> 
