@@ -51,9 +51,12 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     </tr>
     <tr>
         <td><img src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" width="30" style="margin-right:10px"/> Novice</td>
-        <td><a href="https://plotly.com/dash/" target="_blank"><img alt="Dash" src="https://img.shields.io/badge/-Dash-244b78?style=flat-square&logo=dash&logoColor=white" height="27"/></a>
+        <td>
+	    <a href="https://mlflow.org/" target="_blank"><img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="27"/></a>
+	    <a href="https://plotly.com/dash/" target="_blank"><img alt="Dash" src="https://img.shields.io/badge/-Dash-244b78?style=flat-square&logo=dash&logoColor=white" height="27"/></a>
             <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" height="27"/></a>
             <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" height="27"/></a>
+	    <a href="https://airflow.apache.org/" target="_blank"><img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="27"/></a>
             <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" height="27"/></a>
             <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="27"/></a>
             <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-35a691?style=flat-square&logo=fastapi&logoColor=white" height="27"/></a>
