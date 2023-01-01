@@ -81,6 +81,8 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 <a href="https://github.com/Deffro/Data-Science-Portfolio"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=Data-Science-Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
 <a href="https://github.com/Deffro/random-dose-of-knowledge"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=random-dose-of-knowledge&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
 <a href="https://github.com/Deffro/statify"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=statify&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+<a href="https://github.com/Deffro/end-to-end-ML-project"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=end-to-end-ML-project&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
+<a href="https://github.com/Deffro/MLOPs"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Deffro&repo=MLOPs&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>
  
 
 <h2>My Projects</h2>
