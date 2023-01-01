@@ -101,7 +101,7 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
     </tr>  
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif?1643514600" width="30" style="margin-right:10px"/> End to End ML Project</td>
-       <td>MLOPs, Production, Deployment, Docker, Pytest, Tox, Git, Heroku, FastAPI, Anaconda, Pandas, Scikit-Learn, Feature-Engine,</td>
+       <td>MLOps, Production, Deployment, Docker, Pytest, Tox, Git, Heroku, FastAPI, Anaconda, Pandas, Scikit-Learn, Feature-Engine</td>
        <td><a href="https://github.com/Deffro/end-to-end-ML-project" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>  
