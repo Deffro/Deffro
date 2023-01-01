@@ -98,7 +98,6 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 	  
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643510673/50601/airflow_spin.gif?1643510673" width="30" style="margin-right:10px"/>MLOps Lifecycle</td>
-    <tr>
        <td>MLOps, Production, Deployment, MLflow, Airflow, Docker-compose, Git, AWS S3, Anaconda, Scikit-Learn, Feature-Engine, SMOTE</td>
        <td><a href="https://github.com/Deffro/MLOps" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
