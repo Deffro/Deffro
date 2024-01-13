@@ -10,7 +10,7 @@
 <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there 
 ![](https://komarev.com/ghpvc/?username=Deffro&label=Visitor) 
 
-Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
+Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.icons8.com/fluency/344/greece-circular.png" width="18"/> <b>Athens, Greece</b>. I am passionate about Data Science and I learn every day in this exciting, ever-changing field.
 
 <h2>My Tech Stack</h2>
 
@@ -46,7 +46,6 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 		<a href="https://www.mendeley.com/" target="_blank"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-8a1c1c?style=flat-square&logo=mendeley&logoColor=white" height="27"/></a>
 		<a href="https://trello.com/en" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0084d1?style=flat-square&logo=trello&logoColor=white" height="27"/></a>
 		<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" height="27"/></a>
-		<a href="https://xfce.org/" target="_blank"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-398ab3?style=flat-square&logo=xfce&logoColor=white" height="27"/></a>		
         </td>
     </tr>
     <tr>
@@ -61,8 +60,9 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
             <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="27"/></a>
             <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-35a691?style=flat-square&logo=fastapi&logoColor=white" height="27"/></a>
             <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-F3CD00?style=flat-square&logo=linux&logoColor=white" height="27"/></a>
-			<a href="https://jinja.palletsprojects.com/en/3.0.x/" target="_blank"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-910707?style=flat-square&logo=jinja&logoColor=white" height="27"/></a>
-			<a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-68747a?style=flat-square&logo=selenium&logoColor=white" height="27"/></a>
+	    <a href="https://jinja.palletsprojects.com/en/3.0.x/" target="_blank"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-910707?style=flat-square&logo=jinja&logoColor=white" height="27"/></a>
+	    <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-68747a?style=flat-square&logo=selenium&logoColor=white" height="27"/></a>		
+	    <a href="https://xfce.org/" target="_blank"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-398ab3?style=flat-square&logo=xfce&logoColor=white" height="27"/></a>		
         </td>
     </tr>
     <tr>
