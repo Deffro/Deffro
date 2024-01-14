@@ -45,7 +45,8 @@ Thanks for stopping by! I'm Dimitris, currently living in <img src="https://img.
 		<a href="https://www.overleaf.com/" target="_blank"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-45a638?style=flat-square&logo=overleaf&logoColor=white" height="27"/></a>
 		<a href="https://www.mendeley.com/" target="_blank"><img alt="Mendeley" src="https://img.shields.io/badge/-Mendeley-8a1c1c?style=flat-square&logo=mendeley&logoColor=white" height="27"/></a>
 		<a href="https://trello.com/en" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0084d1?style=flat-square&logo=trello&logoColor=white" height="27"/></a>
-		<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" height="27"/></a>
+		<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-41c473?style=flat-square&logo=pycharm&logoColor=white" height="27"/></a>		
+	        <a href="https://notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" height="27"/></a>
         </td>
     </tr>
     <tr>
