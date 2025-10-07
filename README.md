@@ -5,7 +5,7 @@
 <a href="https://medium.com/@dimitris.effrosynidis" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/dimitrios-effrosynidis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://personalfinancevault.com/" target="_blank"><img alt="Book Summaries" src="https://img.shields.io/badge/-Book--Summaries-d1af26?logo=nones&style=for-the-badge" /></a> 
-<a href="https://smartf.in/" target="_blank"><img alt="The Stock Analysis Platform that helps you find smart investments" src="https://img.shields.io/badge/-Smartfin-01509A?logo=nones&style=for-the-badge" /></a> 
+<a href="https://thesmartfin.com/" target="_blank"><img alt="The Stock Analysis Platform that helps you find smart investments" src="https://img.shields.io/badge/-Smartfin-01509A?logo=nones&style=for-the-badge" /></a> 
 </p>
 
 
